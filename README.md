@@ -2,10 +2,10 @@
 
 ---
 
-Name: Mukul Chauhan
-University: DIT, Dehradun, Uttarakhand
-Language Used: Java
-Email: mukulc67@gmail.com
+- Name: Mukul Chauhan
+- University: DIT, Dehradun, Uttarakhand
+- Language Used: Java
+- Email: mukulc67@gmail.com
 
 ---
 
